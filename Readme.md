@@ -30,7 +30,7 @@ This goes either in a separate JSON file (e.g. `types.json`), or in a `"milk"` s
 
 #### Example `types.json`:
 
-```
+```json
 {
   "$schemaVersion": 2,
   "version": 1,
